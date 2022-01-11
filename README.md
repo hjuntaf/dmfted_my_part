@@ -7,4 +7,4 @@ The original main code ("run.c") is first created by Ara Go and modified by Ara 
 
 Variations of the main code for Bethe lattice calculations and/or symmetry considerations ("run_*") are written by Hyeong Jun Lee based on the original main code.
 
-One postprocessing code for moment calculations ("moment.c") is written by Hyeong Jun Lee.
+Some postprocessing codes for moment & reduced density-matrix calculations ("moment.c", "rdm.c", and "rdm_*") are written by Hyeong Jun Lee.
